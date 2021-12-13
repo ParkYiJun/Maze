@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":832,"scrollY":624},
-{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":928.5,"scrollY":528},
-{"id":3,"expanded":false,"name":"MAP003_마을","order":3,"parentId":0,"scrollX":1061.142857142857,"scrollY":603.4285714285714},
+{"id":2,"expanded":false,"name":"MAP002","order":2,"parentId":0,"scrollX":664,"scrollY":838},
+{"id":3,"expanded":false,"name":"MAP003_마을","order":3,"parentId":0,"scrollX":1016,"scrollY":848.6666666666666},
 {"id":4,"expanded":false,"name":"MAP004_세계지도","order":4,"parentId":0,"scrollX":741.6,"scrollY":816},
 {"id":5,"expanded":false,"name":"MAP005_던전 앞","order":5,"parentId":0,"scrollX":940.5,"scrollY":672},
 {"id":6,"expanded":false,"name":"MAP006","order":6,"parentId":0,"scrollX":664,"scrollY":838},
